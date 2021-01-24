@@ -1,1 +1,0 @@
-window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1611502845",layout:"default",error:null,state:{signInTokens:{},projects:[],customers:[],mockState:{}},serverRendered:true,routePath:"\u002Fselect-test-page",config:{},apollo:{defaultClient:Object.create(null)}};
